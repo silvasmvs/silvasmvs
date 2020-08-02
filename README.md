@@ -1,16 +1,14 @@
-### Hi there 👋
+### Mauricio Vieira da Silva Júnior
 
-<!--
-**silvasmvs/silvasmvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mauricio-silva-vieira/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mrcvr1@gmail.com)](mailto:mrcvr1@gmail.com)
 
-Here are some ideas to get you started:
+### Hello! Welcome to my profile
+<img style="margin: 0 auto" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="200">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👷 I’m Development Analyst at <a target="_blank" href="https://www.classapp.com.br/">ClassApp</a>
+
+- 🌱 I’m currently learning build prototypes on <a target="_blank" href="https://www.figma.com">Figma</a>, CSS and <a target="_blank" href="https://svelte.dev/">Svelte JS</a>
+
+
+
