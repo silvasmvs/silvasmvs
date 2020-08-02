@@ -1,7 +1,10 @@
 ### Mauricio Vieira da Silva Júnior
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mauricio-silva-vieira/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mrcvr1@gmail.com)](mailto:mrcvr1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricio-silva-vieira/)](https://www.linkedin.com/in/mauricio-silva-vieira/)
+
+[![Gmail Badge](https://img.shields.io/badge/-mrcvr1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrcvr1@gmail.com)](mailto:mrcvr1@gmail.com)
+
+[![Instagram Badge](https://img.shields.io/badge/-silvasmvs-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/silvasmvs/)](https://www.instagram.com/silvasmvs/)
 
 ### Hello! Welcome to my profile
 <img style="margin: 0 auto" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="200">
