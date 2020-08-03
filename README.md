@@ -9,9 +9,9 @@
 ### Hello! Welcome to my profile
 <img style="margin: 0 auto" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="200">
 
-- 👷 I’m Development Analyst at <a target="_blank" href="https://www.classapp.com.br/">ClassApp</a>
+- 👷 I’m a Development Analyst at <a target="_blank" href="https://www.classapp.com.br/">ClassApp</a>
 
-- 🌱 I’m currently learning build prototypes on <a target="_blank" href="https://www.figma.com">Figma</a>, CSS and <a target="_blank" href="https://svelte.dev/">Svelte JS</a>
+- 🌱 I’m currently learning to build prototypes on <a target="_blank" href="https://www.figma.com">Figma</a>, CSS and <a target="_blank" href="https://svelte.dev/">Svelte JS</a>
 
 
 
