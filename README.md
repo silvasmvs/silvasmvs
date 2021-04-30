@@ -7,11 +7,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-silvasmvs-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/silvasmvs/)](https://www.instagram.com/silvasmvs/)
 
 ### Hello! Welcome to my profile
-<img style="margin: 0 auto" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="200">
 
 - 👷 I’m a Development Analyst at <a target="_blank" href="https://www.classapp.com.br/">ClassApp</a>
 
-- 🌱 I’m currently learning to build prototypes on <a target="_blank" href="https://www.figma.com">Figma</a>, CSS and <a target="_blank" href="https://svelte.dev/">Svelte JS</a>
+- 🌱 I’m currently learning to build prototypes on <a target="_blank" href="https://www.figma.com">Figma</a>, CSS and <a target="_blank" href="https://pt-br.reactjs.org/">React JS</a>
 
 
 
